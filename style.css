@@ -155,13 +155,17 @@ hr{
     margin: 5px auto;
   }
 
+/* Coding Picture*/
+#codingpic img {
+  width:30%
+}
 
 /* Footer*/
   .footer { 
     background: #1F568B;
     list-style-type: none;
     text-align: center;
-    margin: 10px auto;
+    margin: 30px auto;
     }
 
     .footer ul li {
